@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **usa6463/usa6463** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About Me 🎸
+- I’m a software engineer based in Seoul with a strong interest in infrastructure, data engineering, and AI. I enjoy building meaningful services—no matter how small—that are interesting and helpful to others.
+
+## My Blog
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@usa6463)
