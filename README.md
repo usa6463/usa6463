@@ -26,7 +26,7 @@ Hi, I’m a software engineer based in Seoul with a strong interest in infrastru
 
 ### Data Engineering
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-Spark
+![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=spark&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 Kafka
 
