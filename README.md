@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 ## About Me 🎸
 Hi, I’m a software engineer based in Seoul with a strong interest in infrastructure, data engineering, and AI. I enjoy building meaningful services—no matter how small—that are interesting and helpful to others.
+![Kubernetes](https://img.shields.io/badge/kubernetes-%2523326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ## Main Skills
 ### Infra
